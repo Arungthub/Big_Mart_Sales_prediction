@@ -61,7 +61,7 @@ Follow these steps to set up and run the project locally:
 
 1. Open the repository.
 2. Click on Codespaces.
-3. In your local environment, open the Codespace named Stunning Train, or open the folder in VS Code.
+3. In your local environment, open the Codespace create a new codespace , or open the folder in VS Code.
 4. Install the dependencies listed in requirements.txt.
 
 Terminal Commands
